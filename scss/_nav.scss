@@ -1,0 +1,29 @@
+.cNav{
+    background-color: aquamarine;
+}
+
+nav{
+    background-color: black;
+    div{
+        img{
+            width: 8%;
+        }    
+    }
+    div{
+
+        ul{
+            li{
+                a{
+                    font-size: 2em;
+                    font-family: 'Source Code Pro', monospace;
+                    font-weight: 300;
+                    color: white;
+                    :hover{
+                        font-size: 2.2em;
+                    }
+                }
+            }
+        }
+    
+    }
+}

@@ -1,5 +1,15 @@
-footer {
-  background-color: aqua; }
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bodoni+Moda:opsz@6..96&family=Montserrat:wght@300&family=Roboto+Condensed:ital@1&display=swap");
+.cNav {
+  background-color: aquamarine; }
 
-.titulo {
-  background-color: aqua; }
+nav {
+  background-color: black; }
+  nav div img {
+    width: 8%; }
+  nav div ul li a {
+    font-size: 2em;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 300;
+    color: white; }
+    nav div ul li a :hover {
+      font-size: 2.2em; }
